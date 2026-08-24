@@ -410,6 +410,7 @@ The same concepts used here—data cleaning, numerical analysis, filtering, visu
 
 ## 👨‍💻 Author
 
+**Muhammad Maaz**
 ### **Coding With Maazi**
 
 🧬 **Computational Biology | Python | Data Analysis | Machine Learning**
